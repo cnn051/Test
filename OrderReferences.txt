@@ -1,0 +1,15 @@
+깃허브 자료 올릴 때 순서 (cmd창이나 Git Bash로 해야 함)
+
+1. git config --global user.name cnn051 (cnn051은 깃허브 이름)
+
+2. git config --global user.email wpzl456@naver.com (wpzl456@naver.com은 깃허브 메일)
+
+3. cd C:\Users\wpzl4\Desktop\Git (C:\Users\wpzl4\Desktop\Git은 로컬 저장소 위치)
+
+4. git clone https://github.com/cnn051/Test.git (https://github.com/cnn051/Test.git은 깃허브 저장소 링크)
+
+5. cd Test (Test는 위에 로컬 저장소 위치 하위에 있는 폴더)
+
+6. git add hello.html (hello.html은 로컬 저장소인 Test폴더에 위치한 hello.html을 깃허브에 추가한다는 뜻)
+
+7. git push 깃허브에 푸시 
